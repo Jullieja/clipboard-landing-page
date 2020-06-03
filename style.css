@@ -151,11 +151,41 @@ p{
 .clipboard-ios-mac{
 	margin-top: 7rem;
 	text-align: center;
+	margin-bottom: 7rem;
 }
 
 .download{
 	margin-bottom: 2.5rem;
 }
+
+/*Styling footer*/
+footer{
+	background-color: #F5F7F7;
+	font-family: 'Bai Jamjuree', sans-serif;
+	font-size: 16px;
+}
+
+.footer-row{
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+.footer-logo{
+	width: 30%;
+}
+
+ul{
+	list-style: none;
+}
+
+li{
+	margin-bottom: 0.5rem;
+}
+
+a{
+	color: hsl(201, 11%, 66%);
+}
+
 
 
 
